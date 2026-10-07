@@ -1,1 +1,1 @@
-This repository stores my paper reading summaries, working record and other contents
+This repository stores my paper reading summaries, working record, course learning notes and other contents
